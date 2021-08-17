@@ -4,7 +4,7 @@
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+</div><hr>
 
 <div align="center">
   <h3>
@@ -77,3 +77,4 @@ $ npm run dev
 
 - Website [danghoangphuc.com](https://danghoangphuc.com)
 - GitHub [@phuchptty](https://github.com/phuchptty)
+<br>
